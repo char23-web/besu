@@ -139,6 +139,7 @@ The formatting change made in this resolution branch ensures consistency with th
 - Base branch (main): `aa98fdef5266a9c9a510f8225e2dd07bf66e4f07`
 - Head branch (patch-1): `a88f9cd8b86f03fdc5a22553f3d88d670363a5a2`
 - Common ancestor: None (unrelated histories)
-- Mergeable state: `dirty` (false)
+- Mergeable: false
+- Mergeable state: dirty
 - Files changed (apparent): 136 (due to history comparison, not actual PR changes)
 - Actual new change: 1 file (.devcontainer/devcontainer.json with 4 lines added)
